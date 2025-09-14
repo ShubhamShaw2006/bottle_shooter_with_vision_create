@@ -46,7 +46,8 @@ This project was built for a hackathon to showcase the use of computer vision + 
 
    bash
    npx http-server
-   
+
+[or just open the index.html file]
 4. Allow camera access when prompted.
 5. Raise your index finger 👉 to shoot bullets at the bottles.
 6. Hit as many bottles as possible before time runs out!
