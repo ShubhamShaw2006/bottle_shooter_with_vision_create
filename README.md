@@ -1,6 +1,6 @@
-# 🍾 Bottle Shooter – Gesture Controlled Game with Vision Create
+#  Bottle Shooter – Gesture Controlled Game with Vision Create
 
-## 🎮 Overview
+##  Overview
 
 Bottle Shooter is a gesture-controlled shooting game where you hit bottles using only your hand movements, tracked in real time via webcam.
 Raise your index finger to fire bullets – no keyboard, mouse, or controller needed!
@@ -11,12 +11,12 @@ This project was built for a hackathon to showcase the use of computer vision + 
 
 ## ⚙ Features
 
-* 🖐 Gesture control using your webcam (powered by MediaPipe Hands).
-* 🎯 Bottle shooting gameplay – score points by hitting bottles.
-* ⏳ 60-second timer – game ends when time runs out.
-* ❌ Miss tracking – 3 misses = game over.
-* 🏆 Scoreboard – stores top 3 high scores and shows your current score.
-* 🔄 Restart option after game over.
+*  Gesture control using your webcam (powered by MediaPipe Hands).
+*  Bottle shooting gameplay – score points by hitting bottles.
+*  60-second timer – game ends when time runs out.
+*  Miss tracking – 3 misses = game over.
+*  Scoreboard – stores top 3 high scores and shows your current score.
+*  Restart option after game over.
 
 ---
 
