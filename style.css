@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  background: #111;
+  color: #fff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.title {
+  margin: 10px;
+}
+
+canvas {
+  border: 2px solid #fff;
+  background: #000;
+}
+
+#game-over {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.85);
+  padding: 20px;
+  border: 2px solid #fff;
+  border-radius: 8px;
+}
+
+.hidden {
+  display: none;
+}
